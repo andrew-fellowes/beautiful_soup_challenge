@@ -91,14 +91,26 @@ The list of dictionaries was saved as a json file:
 
 ### 2. Scrape and Analyse Mars Weather Data
 
+There are 12 months on Mars
+
+There are 1867 Martian days' worth of data
+
 1. Plot of monthly average minimum temperatures
 ![average minimum temps](avg_min_temp.png)
 
 2. Plot of monthly average minimum temperatures sorted by average temperature
 ![sorted average minimum temperatures](sorted_temp.png)
 
+The coldest month in Curiosity's location is month 3 at -83.30729166666667 Celsius
+
+The hottest month in Curiosity's location is month 8 at -68.38297872340425 Celsius
+
 3. Plot of monthly average atmospheric pressure sorted by average pressure
 ![sorted average montly pressure](sorted_pressure.png)
+
+The month with lowest average atmospheric pressure is month 6 at 745.0544217687075 Pascals
+
+The month with highest average atmospheric pressure is month 9 at 913.3059701492538 Pascals
 
 4. Plot of daily minimum temperatures
 ![daily minimum temperatres](min_temp.png)
